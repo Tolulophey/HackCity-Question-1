@@ -1,5 +1,5 @@
 function countStep(num){
-    count = 0
+    let count = 0
     while (num > 0){
         if(num % 2 === 0){
             count += 1
