@@ -10,4 +10,4 @@ function countStep(num){
         } 
     }
     return count
-}~
+}
